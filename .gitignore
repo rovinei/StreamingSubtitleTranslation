@@ -59,3 +59,7 @@ typings/
 
 # Credential folder
 credential/
+
+
+# MACOS file
+.idea/

@@ -71,6 +71,7 @@ speechClient
     console.error('ERROR:', err);
   });
 
+
 // Create a recognize stream
 // const recognizeStream = speechClient
 //   .streamingRecognize(request)

@@ -12,6 +12,7 @@ const encoding = 'LINEAR16';
 const sampleRateHertz = 44100;
 const languageCode = 'th-TH';
 
+
 const config = {
   encoding: encoding,
   sampleRateHertz: sampleRateHertz,
