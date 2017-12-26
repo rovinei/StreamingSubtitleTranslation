@@ -1,0 +1,23 @@
+{
+  "name": "streaming-speech-to-text",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "speech",
+    "to",
+    "text",
+    "api"
+  ],
+  "author": "rovinei",
+  "license": "MIT",
+  "dependencies": {
+    "@google-cloud/speech": "^0.11.0",
+    "@google-cloud/translate": "^1.1.0",
+    "node-record-lpcm16": "^0.3.0"
+  }
+}
